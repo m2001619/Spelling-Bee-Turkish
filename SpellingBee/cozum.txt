@@ -1,0 +1,4 @@
+The answer words :[aktutma, akut, amut, anut, atakum, kamu, kanun, koku, kokutma, kokutmak, komut, komuta, komutan, konu, konuk, konum, konut, kuantum, kuka, kuma, kuman, kumkuma, kumuk, kunt, kutan, kutnu, kutu, kuut, maktu, mamut, maun, muamma, mukataa, muta, mutantan, mutat, natuk, nukut, nutuk, okuma, okumak, okunma, okunmak, okuntu, okutma, okutmak, okutman, onum, takatuka, tamu, taun, tuman, tutak, tutam, tutamak, tutanak, tutku, tutkun, tutma, tutmak, tutu, tutuk, tutum, tutunma, tutunmak, uknum, umma, ummak, umman, umum, umut, unutkan, unutma, unutmak, utanma, utanmak, utku, utma, utmak]
+Number of answer words : 79
+Pangram words : [komutan, okutman]
+Score : 195
